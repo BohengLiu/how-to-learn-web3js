@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BohengLiu/how-to-learn-web3js/issues"
   },
-  "homepage": "https://github.com/BohengLiu/how-to-learn-web3js#readme"
+  "homepage": "https://github.com/BohengLiu/how-to-learn-web3js#readme",
+  "dependencies": {
+    "web3": "^1.4.0"
+  }
 }
