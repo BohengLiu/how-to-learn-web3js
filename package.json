@@ -1,0 +1,20 @@
+{
+  "name": "how-to-learn-web3js",
+  "version": "1.0.0",
+  "description": "web3.js是什么？简单来说就是一个和以太坊网络上节点通讯的sdk。所以最快掌控它的方法就是把它提供的api都调一遍。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BohengLiu/how-to-learn-web3js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BohengLiu/how-to-learn-web3js/issues"
+  },
+  "homepage": "https://github.com/BohengLiu/how-to-learn-web3js#readme"
+}
