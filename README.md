@@ -10,3 +10,4 @@ web3.js是什么？简单来说就是一个和以太坊网络上节点通讯的s
 ## 第二步，配置项目参数
 
 ## 第三步，调用demo，体验接口
+web3.js的文档： https://web3js.readthedocs.io/en/v1.4.0/
