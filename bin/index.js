@@ -2,6 +2,7 @@ const { Command } = require("commander");
 const pagJson = require("../package.json");
 const childProcess = require("child_process");
 const fs = require("fs");
+const { initEnv } = require("./initEnv");
 
 function parseCommand() {
   // parse command option
@@ -50,6 +51,8 @@ function main() {
     console.log("demo not exists!");
     return;
   }
+
+  initEnv();
 
   try {
     runScript(demoPath, function (err) {
