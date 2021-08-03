@@ -14,6 +14,10 @@ web3.js是什么？简单来说就是一个和以太坊网络上节点通讯的s
 
 ## 第三步，调用demo，体验接口
 web3.js的文档： https://web3js.readthedocs.io/en/v1.4.0/
+可以使用`yarn demo -p <demo-name>` 或 `npm run demo -p <demo-name>`来启动demo，demo-name就是demo文件夹下的文件名。比如：  
+`yarn demo -p helloWorld`
+
+# 在browser环境使用web3
 
 # FAQ
 ## 不理解api的设计
@@ -22,3 +26,6 @@ web3其实混杂了很多功能，根据用途可以划分成：
 2. 通过节点在区块链上广播交易
 3. 获取连接节点的信息
 4. 远程操作节点
+
+## 如何获取代币进行测试？
+以太坊存在很多测试网，可以切换到rinkeby网络，通过https://www.rinkeby.io/#faucet 获取代币
