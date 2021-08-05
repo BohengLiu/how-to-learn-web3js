@@ -29,3 +29,9 @@ web3其实混杂了很多功能，根据用途可以划分成：
 
 ## 如何获取代币进行测试？
 以太坊存在很多测试网，可以切换到rinkeby网络，通过https://www.rinkeby.io/#faucet 获取代币
+
+## 如何观察链上信息
+https://rinkeby.etherscan.io/
+
+## 如何部署智能合约
+http://remix.ethereum.org/
